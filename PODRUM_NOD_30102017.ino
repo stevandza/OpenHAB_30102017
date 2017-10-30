@@ -8,7 +8,7 @@
  15.07.2016.
  19.07.2016. - Probano radi sve ! Dodat je i izlaz 36 sa Arduino Mega na Rele4 ali se ne koristi
  15.08.2016 -  Dodato i dobro ocitavanje pritiska vode 0-25bar.
- 26.10.2017 -  revizija
+ 26.10.2017 -  revizija - izbaceno DHT22 a ubacena jos jedna sonda DS18B20
  
 Probano i radi bez diskonektovanja !!!!! :P
 */
