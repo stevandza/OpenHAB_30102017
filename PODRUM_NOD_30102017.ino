@@ -30,7 +30,7 @@ Probano i radi bez diskonektovanja !!!!! :P
 #define PODRUM_GREJANJE         26 
 #define PODRUM_JUNE_ZADAVANJE   2    
 
-// ULAZI
+//  ULAZI
 
 #define PODRUM_PROZOR                    28
 #define PODRUM_NIVO_VODE_GREJANJA        A0   
